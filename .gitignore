@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Training_Output/
+dwh(ready_to_be_analyzed)/
+.env
