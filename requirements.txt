@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+SQLAlchemy
+psycopg2-binary
+scikit-learn
+joblib
+nltk
+regex
+matplotlib
+seaborn
+jupyter
+ipykernel
+nbconvert
+tqdm
+requests
